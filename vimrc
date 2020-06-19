@@ -4,6 +4,8 @@
 " Will Chatham. @willc
 " www.willchatham.com
 " 
+" 06.19.20 - Needs to be tested for coolness, as it has been a while.
+"
 " reset to vim-defaults
 if &compatible          " only if not set before:
   set nocompatible      " use vim-defaults instead of vi-defaults (easier, more user friendly)
